@@ -16,7 +16,7 @@ To better assess a candidates development skills, we provide this following chal
 ## Project Description
 Imagine that Salido has just acquired a new company called ABC Wine Distributors (ABC WD) for the purpose of selling wines through Salido's existing customer-facing mobile app.
 
-Your job is to prorotype a web-based Inventory Management System.
+Your job is to prototype a web-based Inventory Management System.
 
 ABC WD's API: https://api.wine.com You will need to sign up for an account to obtain your own apikey.
 
